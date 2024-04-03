@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/linktreeClone/static/css/main.f83daaa6.css",
-    "main.js": "/linktreeClone/static/js/main.48ff705c.js",
-    "static/js/952.9acfda71.chunk.js": "/linktreeClone/static/js/952.9acfda71.chunk.js",
-    "index.html": "/linktreeClone/index.html",
-    "main.f83daaa6.css.map": "/linktreeClone/static/css/main.f83daaa6.css.map",
-    "main.48ff705c.js.map": "/linktreeClone/static/js/main.48ff705c.js.map",
-    "952.9acfda71.chunk.js.map": "/linktreeClone/static/js/952.9acfda71.chunk.js.map"
+    "main.css": "/Abdulrahman2540.github.io/static/css/main.f83daaa6.css",
+    "main.js": "/Abdulrahman2540.github.io/static/js/main.a9346e04.js",
+    "static/js/952.9acfda71.chunk.js": "/Abdulrahman2540.github.io/static/js/952.9acfda71.chunk.js",
+    "index.html": "/Abdulrahman2540.github.io/index.html",
+    "main.f83daaa6.css.map": "/Abdulrahman2540.github.io/static/css/main.f83daaa6.css.map",
+    "main.a9346e04.js.map": "/Abdulrahman2540.github.io/static/js/main.a9346e04.js.map",
+    "952.9acfda71.chunk.js.map": "/Abdulrahman2540.github.io/static/js/952.9acfda71.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f83daaa6.css",
-    "static/js/main.48ff705c.js"
+    "static/js/main.a9346e04.js"
   ]
 }
